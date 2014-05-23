@@ -1,0 +1,8 @@
+*.b#*
+*.s#*
+cam_exports/*
+images/*
+eagle.epf
+*~
+*.ps
+*.pdf

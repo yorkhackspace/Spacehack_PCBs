@@ -1,0 +1,5 @@
+<h1>Spacehack game</h1>
+This is a collection of PCB designs for the spacehack game.
+<br>
+<br>
+It includes PCBs for bussing the LCDs together and for connecting all of the inputs to a Beaglebone Black.
